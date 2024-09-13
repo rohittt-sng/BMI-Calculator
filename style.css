@@ -1,0 +1,23 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-size: 30px;
+}
+#height{
+    font-size: 30px;
+}
+#weight{
+    font-size: 30px;
+}
+button{
+    font-size: 50px;
+}
+#result{
+    margin-top: 50px;
+}
+
+#weight-guide{
+    margin-top: 70px;
+}
+
+
